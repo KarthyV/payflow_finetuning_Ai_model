@@ -47,5 +47,11 @@ Tip: Use local wallets instead.
 
 ✅ Portfolio Success Metrics
 Your fine-tuned model achieves:
-MetricResultFormat Consistency4/5 FAQs have 👉 Next step ✅Brand VoiceClear PayFlow tone in all answers ✅ConcisenessAll answers are short (mobile-friendly) ✅No JargonPlain language throughout ✅AccuracyMostly correct (some hallucinations on complex Qs) ⚠️
+
+Metric                       Result
+Format Consistency      4/5 FAQs have 👉 Next step 
+✅Brand VoiceClear      PayFlow tone in all answers 
+✅Conciseness           All answers are short (mobile-friendly) 
+✅No Jargon             Plain language throughout 
+✅Accuracy              Mostly correct (some hallucinations on complex Qs) ⚠️
 
